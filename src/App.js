@@ -8,9 +8,15 @@ import Resume from './containers/resume';
 import Skills from './containers/skills';
 import Navbar from './components/navBar';
 
+
 function App() {
+
+
+
   return (
     <div className="App">
+    
+      
       <Navbar/>
 
     <Routes>
